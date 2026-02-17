@@ -1,3 +1,4 @@
+package basics;
 class journey {
     public static void main(String args[]) {
         int year = 2026;
